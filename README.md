@@ -132,7 +132,18 @@ python data_generation/stream_events.py
 ```
 
 ---
+## 📊 Tableau Dashboard Walkthrough
 
-## Dashboard Preview
+The Tableau dashboard offers an interactive view into shopper behavior and sales performance derived from real-time and historical data processed through the ESynapse pipeline.
 
-![Tableau Dashboard](https://via.placeholder.com/800x400.png?text=Your+Tableau+Dashboard+Screenshot+Here)
+**Key insights covered in the video:**
+- Product health scores and conversion rates
+- Dynamic filtering by product category, discount period, and metrics
+- Price drop detection and discount effectiveness
+- Sales funnel KPIs (Viewed → Carted → Purchased)
+- Forecasted vs. actual sales trends
+
+🎥 **[Watch the interactive demo here](https://drive.google.com/file/d/1-CqvO-FaNCvKegAKOxIJZzGsK27Lpciz/view?usp=drive_link)**  
+🖼️ *Preview Screenshot:*
+
+![Shopper Behavior Dashboard](https://drive.google.com/file/d/1WivHE1heEBg_-hgtXTrUjoD_ajgv-Uzd/view?usp=drive_link)

@@ -144,6 +144,6 @@ The Tableau dashboard offers an interactive view into shopper behavior and sales
 - Forecasted vs. actual sales trends
 
 🎥 **[Watch the interactive demo here](https://drive.google.com/file/d/1-CqvO-FaNCvKegAKOxIJZzGsK27Lpciz/view?usp=drive_link)**  
-🖼️ *Preview Screenshot:*
 
-![Shopper Behavior Dashboard](https://drive.google.com/file/d/1WivHE1heEBg_-hgtXTrUjoD_ajgv-Uzd/view?usp=drive_link)
+🖼️ *Preview Screenshot:*
+https://drive.google.com/file/d/1WivHE1heEBg_-hgtXTrUjoD_ajgv-Uzd/view?usp=drive_link
